@@ -8,10 +8,15 @@
 
 ---
 
+
+
+<div align="center">
+  
 ## 🎓 42 Common Core Projects
 
 A selection of my projects completed during the **42 programming school common core**, covering low-level programming, algorithms, concurrency, networking, and system design.
 
+  
 ### 📦 Projects
 
 | Project | Description |
@@ -27,3 +32,5 @@ A selection of my projects completed during the **42 programming school common c
 | **[cub3d](https://github.com/capacarry/cub3d)** | Raycasting 3D engine |
 | **[minishell](https://github.com/capacarry/minishell)** | Bash-like shell |
 | **[ft_irc](https://github.com/capacarry/ft_irc)** | IRC server implementation |
+
+</div>
