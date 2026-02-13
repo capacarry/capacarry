@@ -12,6 +12,9 @@
 
 <div align="center">
   
+## 👨‍🔧 Personal Study Projects
+**[Full-Stack Task Manager](https://github.com/G-Capa/Easy-Tasker---Full-Stack-Management-Application)** |From API development to Front-End. All running in Docker|
+  
 ## 🎓 42 Common Core Projects
 
 A selection of my projects completed during the **42 programming school common core**, covering low-level programming, algorithms, concurrency, networking, and system design.
