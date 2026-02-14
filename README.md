@@ -13,7 +13,11 @@
 <div align="center">
   
 ## 👨‍🔧 Personal Study Projects
-**[Full-Stack Task Manager](https://github.com/G-Capa/Easy-Tasker---Full-Stack-Management-Application)** |From API development to Front-End. All running in Docker|
+**[Full-Stack Task Manager](https://github.com/G-Capa/Easy-Tasker---Full-Stack-Management-Application)** 
+|From API development to Front-End. All running in Docker|
+
+**[TermHelper -- AI terminal assistant using Ollama](https://github.com/G-Capa/termhelper)** 
+|API incorporation, AI usage with python, package management and CLI tool|
   
 ## 🎓 42 Common Core Projects
 
